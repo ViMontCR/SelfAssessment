@@ -1,7 +1,7 @@
 ## Node.js and backend
 
 - Internals and concepts
-  - Strong and weak sides of node.js
+  - Strong and weak sides of node.js: 👂 heard
   - Stateful and stateless servers
   - Nonblocking I/O and blocking code
   - Event loop phases
@@ -65,9 +65,9 @@
   - SNI callback
   - SSL certificates
   - Protocol agnostic approach
-  - Fetch API
+  - Fetch API: 👂 heard
   - IncomingMessage
-  - HTTP(S)
+  - HTTP(S): 👂 heard
   - TCP/SSL
   - UDP
   - TLS
@@ -79,11 +79,11 @@
   - RPC
   - Routing
   - DoS
-  - DDoS
+  - DDoS: 👂 heard
   - XSS
   - Path traversal
   - CSRF
-  - DNS
+  - DNS: 👂 heard
   - SQL injection
   - noDelay
   - keep-alive
@@ -92,7 +92,7 @@
   - Native test runner
   - Logging
   - Application configuring
-  - Testing
+  - Testing: 👂 heard
   - CI/CD
   - Readable
   - Writable
@@ -135,7 +135,7 @@
   - NAPI `Rust`
   - NAPI `Zig`
   - Webassembly `WAT`
-  - Webassembly `C` and `C++`
+  - Webassembly `C` and `C++`: 🖐️ used
   - Webassembly `Rust`
   - Webassembly `Zig`
   - Webassembly `AssemblyScript`

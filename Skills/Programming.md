@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model: 🖐️ used
+  - Modeling: 🖐️ used
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Algorithm: 🖐️ used
+  - Syntax: 🖐️ used
+  - Semantics: 🖐️ used
+  - Abstraction: 🖐️ used
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language: 👂 heard
   - Contract
   - Module
   - Library
@@ -19,9 +19,9 @@
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code: 🖐️ used
   - Object code
-  - Machine code
+  - Machine code: 🖐️ used
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,18 +32,18 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value: 🖐️ used
+  - Identifier: 🖐️ used
+  - Variable: 🖐️ used
+  - Constant: 🖐️ used
+  - Scalar: 👂 heard
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function: 🖐️ used
   - Procedure
-  - Method
-  - Class
+  - Method: 🖐️ used
+  - Class: 🖐️ used
   - Prototype
   - Event
   - Type
@@ -52,7 +52,7 @@
   - Code block
   - Conditions
   - Loops
-  - Assignment
+  - Assignment: 🎓 known
   - Regular expression
   - Interface
   - Namespaces

@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
-  - Schema versioning
+  - Data types: 🖐️ used
+  - Performance tuning: 🖐️ used
+  - Migrations: 🖐️ used
+  - Schema versioning: 👂 heard
   - Backup and recovery
   - Database scalability
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
+  - Graph databases: 🖐️ used
+  - Object databases: 🖐️ used
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -28,7 +28,7 @@
   - Primary keys
   - Foreign keys
   - Transactions
-  - Views
+  - Views: 🖐️ used
   - Subqueries
   - Stored procedures
   - SQL functions
@@ -71,7 +71,7 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
+  - Oracle: 👂 heard
   - MySQL
   - MariaDB
   - MS SQL Server
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 🎓 known
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

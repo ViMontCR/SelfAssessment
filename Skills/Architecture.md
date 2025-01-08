@@ -1,9 +1,9 @@
 ## Architecture
 
-- Application structure
-  - Modularity
-  - Components
-  - Directories
+- Application structure h
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
   - GRASP
   - SOLID
   - GoF patterns
@@ -18,10 +18,10 @@
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
+  - Reliability: 👂 heard
   - Quality
-  - Availability
-  - Flexibility
+  - Availability: 👂 heard
+  - Flexibility: 👂 heard
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
@@ -45,7 +45,7 @@
   - E-R data modeling
   - Entity-relationship diagram
   - IDEF1X
-  - UML
+  - UML: 👂 heard
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
@@ -67,7 +67,7 @@
   - System design
   - Process modelling
   - Data modelling
-  - Solution components
+  - Solution components: 👂 heard
   - Risk assessment
   - Non Functional Requirements (NFR)
   - Clouds
