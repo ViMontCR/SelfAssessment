@@ -1,11 +1,11 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop
-  - `try..catch`
+  - Event loop h
+  - `try..catch` h
   - Non-blocking
-  - Async I/O
-  - Thread pool
+  - Async I/O h
+  - Thread pool u
   - Pattern Reactor
   - CAS operations
   - epoll
@@ -19,14 +19,14 @@
   - Concurrent programming
   - Parallel programming
   - Actor Model
-  - Thread
-  - Process
+  - Thread u
+  - Process h
 - Async contracts
   - Callbacks
   - Callback-last-error-first
   - Thenable
   - Promise
-  - Async/await
+  - Async/await h
   - Future
   - Deferred
   - Sync generator

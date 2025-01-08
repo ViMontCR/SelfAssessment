@@ -1,17 +1,17 @@
 ## Programming fundamental concepts
 
 - Concepts
-  - Model
-  - Modeling
+  - Model u
+  - Modeling u
   - Subject domain
-  - Algorithm
-  - Syntax
-  - Semantics
-  - Abstraction
+  - Algorithm  u
+  - Syntax u
+  - Semantics u
+  - Abstraction u
   - Paradigm
   - Programm
   - Programming paradigm
-  - Programming language
+  - Programming language h
   - Contract
   - Module
   - Library
@@ -19,9 +19,9 @@
   - Component
   - Framework
   - Platform
-  - Source code
+  - Source code u
   - Object code
-  - Machine code
+  - Machine code u
   - Microcode
   - Software engineering
   - Decomposition
@@ -32,18 +32,18 @@
   - Don't repeat yourself (DRY)
   - KISS principle
 - Syntax and concepts
-  - Value
-  - Identifier
-  - Variable
-  - Constant
-  - Scalar
+  - Value u
+  - Identifier u
+  - Variable u
+  - Constant u
+  - Scalar h
   - Literal
   - Expression
   - Heap
-  - Function
+  - Function u
   - Procedure
-  - Method
-  - Class
+  - Method u
+  - Class u
   - Prototype
   - Event
   - Type
@@ -52,7 +52,7 @@
   - Code block
   - Conditions
   - Loops
-  - Assignment
+  - Assignment k
   - Regular expression
   - Interface
   - Namespaces

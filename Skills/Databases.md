@@ -1,17 +1,17 @@
 ## Databases
 
 - Theory and concepts
-  - Data types
-  - Performance tuning
-  - Migrations
-  - Schema versioning
-  - Backup and recovery
+  - Data types u
+  - Performance tuning u
+  - Migrations u
+  - Schema versioning h
+  - Backup and recovery 
   - Database scalability
   - Relational databases
   - Key-value store
   - Tuple store
-  - Graph databases
-  - Object databases
+  - Graph databases u
+  - Object databases u
   - Column databases
   - Navigational databases
   - Hierarchical databases
@@ -28,7 +28,7 @@
   - Primary keys
   - Foreign keys
   - Transactions
-  - Views
+  - Views u
   - Subqueries
   - Stored procedures
   - SQL functions
@@ -71,7 +71,7 @@
   - `EXPLAIN`
 - Engines
   - PostgreSQL
-  - Oracle
+  - Oracle h
   - MySQL
   - MariaDB
   - MS SQL Server
@@ -87,8 +87,8 @@
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data
-  - Data analysis
-  - AI tools
-  - Cloud databases
-  - Data Visualization
+  - Big data h
+  - Data analysis h
+  - AI tools k
+  - Cloud databases h
+  - Data Visualization h

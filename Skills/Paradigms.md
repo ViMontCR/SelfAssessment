@@ -1,10 +1,10 @@
 ## Multi-paradigm programming
 
 - Theory
-  - Procedural programming
-  - Imperative programming
-  - Structured programming
-  - Non-structured programming
+  - Procedural programming 
+  - Imperative programming 
+  - Structured programming 
+  - Non-structured programming 
   - Functional programming
   - Prototype-based programming
   - Object-oriented programming
@@ -27,22 +27,22 @@
   - Anemic domain model
   - Class composition
 - OOP basics
-  - Constructor
-  - Operator `new`
-  - Static method
-  - Method
-  - Async method
-  - Getters, Setters
-  - Public fields
-  - Private fields
+  - Constructor k
+  - Operator `new` k
+  - Static method k
+  - Method k
+  - Async method k
+  - Getters, Setters u
+  - Public fields u 
+  - Private fields u
   - Field declarations
   - Inheritance
-  - Parent class
+  - Parent class u
   - Polymorphism
   - Abstract class
-  - Interface
+  - Interface h
   - Encapsulation
-  - Hidden class
+  - Hidden class k
   - Object form
   - Instance
   - Introspection
